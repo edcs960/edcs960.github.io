@@ -29,7 +29,7 @@ AI 코딩 도구는 코드를 잘 씁니다. 그런데 실제 프로젝트에 �
 ## 전체 흐름
 
 ```mermaid
-flowchart LR
+flowchart TD
   brief["기획서"] --> spec["명세서<br/>요구사항·화면·확인 질문"]
   spec -->|사람이 확정| mock["화면 목업<br/>요소별 의견"]
   mock -->|화면 확정| handoff["개발 인계<br/>작업 계획"]
