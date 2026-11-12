@@ -80,4 +80,4 @@ LG AI Research가 K-EXAONE 2.5 API를 공개했을 때 하루 안에 추가했�
 - **여러 모델을 쓰는 진짜 이점은 서로 검토하는 데 있다.** 성능 비교보다 사각지대를 줄이는 효과가 큽니다.
 
 - 이전: [구조를 지키는 법: 층 규칙을 테스트로 만들기](/posts/devroster-02-architecture/)
-- 다음: [AI 토큰과 비용을 숫자로 보기: 사용량 대시보드](/posts/devroster-06-usage-dashboard/)
+- 다음: [로컬 앱도 공격받는다: 보안 점검과 신뢰 경계](/posts/devroster-04-security/)

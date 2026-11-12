@@ -83,5 +83,5 @@ DevRoster의 개발 작업은 승인할 때 가격표까지 실행 조건에 고
 - **"측정되지 않음"과 "0"을 구분한다.** 가격이 없는 호출은 비용 0이 아니라 "산정 불가"로 따로 세고, 이유를 보여 줍니다.
 - **기준 시점을 고정한다.** 승인한 것, 기록한 것은 나중의 설정 변경으로 바뀌지 않아야 숫자를 믿을 수 있습니다.
 
-- 이전: [Claude·Codex·Gemini·K-EXAONE를 한 흐름으로](/posts/devroster-03-multi-ai/)
+- 이전: [구글 EGM에서 한 걸음 더: 독립 검토와 드리프트 검사](/posts/devroster-05-independent-review/)
 - 처음으로: [시리즈 목차](/posts/devroster-series/)

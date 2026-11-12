@@ -18,9 +18,9 @@ DevRoster 공개 저장소: <https://github.com/edcs960/devroster>
    3만 줄짜리 adapters 층을 발견하고, import 방향을 AST로 검사하기까지
 3. [Claude·Codex·Gemini·K-EXAONE를 한 흐름으로](/posts/devroster-03-multi-ai/)
    AI 도구를 격리하고, 같은 규칙으로 부르고, 다른 모델로 서로 검토하게 하기
-4. 로컬 앱도 공격받는다: 보안 점검과 신뢰 경계 *(공개 예정)*
+4. [로컬 앱도 공격받는다: 보안 점검과 신뢰 경계](/posts/devroster-04-security/)
    위협 모델을 세우고, 재현하고, "이 설정을 믿어도 되는가"를 코드로 답하기
-5. 구글 EGM에서 한 걸음 더: 독립 검토와 드리프트 검사 *(공개 예정)*
+5. [구글 EGM에서 한 걸음 더: 독립 검토와 드리프트 검사](/posts/devroster-05-independent-review/)
    맥락 없는 검토자를 여러 모델로 꾸리고, 명세와 코드의 차이를 양방향으로 찾기
 6. [AI 토큰과 비용을 숫자로 보기: 사용량 대시보드](/posts/devroster-06-usage-dashboard/)
    대시보드를 만들다 찾은 집계 버그 세 가지와 가격을 고정하는 이유
