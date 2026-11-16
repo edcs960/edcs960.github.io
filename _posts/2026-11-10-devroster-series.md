@@ -24,3 +24,9 @@ DevRoster 공개 저장소: <https://github.com/edcs960/devroster>
    맥락 없는 검토자를 여러 모델로 꾸리고, 명세와 코드의 차이를 양방향으로 찾기
 6. [AI 토큰과 비용을 숫자로 보기: 사용량 대시보드](/posts/devroster-06-usage-dashboard/)
    대시보드를 만들다 찾은 집계 버그 세 가지와 가격을 고정하는 이유
+7. [구독형과 종량제를 나눠 세는 비용 추적기](/posts/devroster-07-cost-tracking/)
+   토큰 4종과 캐시 수명별 단가, 실측이 찾은 0.084달러 오차, 실패한 호출도 비용에 넣기
+8. [SI 납품 산출물 파이프라인과 브라우저 콘솔 오류](/posts/devroster-08-deliverables-and-console/)
+   기록 이상을 말하지 않는 시험 결과서, 명세 밖에 둔 초안 4종, 콘솔 오류를 가려 저장하기
+9. [순환 참조 0개, 파일 원복, OS 키링](/posts/devroster-09-hardening-and-cycles/)
+   순환 import 44개 묶음을 0으로, 되돌리기가 바꾸지 않는 파일, 인증 값을 키체인으로
