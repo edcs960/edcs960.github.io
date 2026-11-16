@@ -84,4 +84,4 @@ DevRoster의 개발 작업은 승인할 때 가격표까지 실행 조건에 고
 - **기준 시점을 고정한다.** 승인한 것, 기록한 것은 나중의 설정 변경으로 바뀌지 않아야 숫자를 믿을 수 있습니다.
 
 - 이전: [구글 EGM에서 한 걸음 더: 독립 검토와 드리프트 검사](/posts/devroster-05-independent-review/)
-- 처음으로: [시리즈 목차](/posts/devroster-series/)
+- 다음: [구독형과 종량제를 나눠 세는 비용 추적기](/posts/devroster-07-cost-tracking/)
