@@ -1,6 +1,6 @@
 ---
 title: "DevRoster 개발기 12: 확정 디자인을 고정하고 QA가 나란히 보게 하기"
-date: 2026-11-27 11:00:00 +0900
+date: 2026-11-27 09:02:00 +0900
 categories: [DevRoster, 개발기]
 tags: [devroster, design-system, figma, stitch, qa, skill-catalog]
 mermaid: true

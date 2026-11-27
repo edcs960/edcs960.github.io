@@ -1,6 +1,6 @@
 ---
 title: "DevRoster 개발기 11: AI가 테스트를 약하게 만들거나 비밀값을 흘릴 때"
-date: 2026-11-27 10:00:00 +0900
+date: 2026-11-27 09:01:00 +0900
 categories: [DevRoster, 개발기]
 tags: [devroster, test-integrity, secrets, redaction, git, policy]
 mermaid: true
