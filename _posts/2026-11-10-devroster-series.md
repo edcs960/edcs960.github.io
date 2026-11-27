@@ -30,3 +30,9 @@ DevRoster는 기획서 한 장을 명세서, 화면 목업, 승인된 개발 작
    기록보다 많이 말하지 않는 시험 결과서, 명세 밖에 둔 초안 4종, 콘솔 오류를 가려서 남기기
 9. [순환 참조 0개, 파일 원복, OS 키링](/posts/devroster-09-hardening-and-cycles/)
    순환 import 44개 묶음을 0으로 만든 리팩토링, 파일을 건드리지 않는 되돌리기, 인증 값의 이사
+10. [흩어진 화면 경계 다시 긋기 — 메뉴 다섯 묶음, 단계 승인, 설정 분리](/posts/devroster-10-navigation-and-settings/)
+   소유 범위로 나눈 메뉴 16항목, 상태 문구 정본, 단계 승인을 작업실로 옮기며 만난 경쟁 조건, 단계별 설정 저장과 공통값 미리보기
+11. [AI가 테스트를 약하게 만들거나 비밀값을 흘릴 때](/posts/devroster-11-weakened-tests-and-secrets/)
+   테스트 약화 신호를 경고로, 읽지 못한 비밀값은 작업 중단으로, 보내기 직전 경계에서 한 번 더 가리기
+12. [확정 디자인을 고정하고 QA가 나란히 보게 하기](/posts/devroster-12-approved-designs-and-skills/)
+   검토한 스킬 통합과 목록 한도, Figma·Stitch 확정 디자인의 digest 고정·역할 전달·인계 ZIP, QA 비교와 목업 격리
